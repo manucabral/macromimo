@@ -3,5 +3,6 @@ A free and simple macro recorder written in Python. Its allows you to record seq
 
 ## Features
 - Record and save your own sequences.
-- Share your sequence file with other people.
+- Share your recorded sequence with other people.
+- Play back and modify recorded sequences.
 - Lightweight and simple.
